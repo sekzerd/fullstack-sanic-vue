@@ -1,4 +1,4 @@
-# demo-fullstack-vue-sanic
+# demo-fullstack-sanic-vue
 powered by docker compose
 
 # libs
